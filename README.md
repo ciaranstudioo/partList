@@ -1,11 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# partList
-# partList
-# partList
+Interactive clouds experience showing an artist collective's mission statement and member bios. 
+Debug and admin routes available. 
+Debug page shows main scene with edit panel options. 
+Admin page provides interface for member database with view, edit, and delete options.
